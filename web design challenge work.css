@@ -1,0 +1,43 @@
+
+* {
+    font-family: "Poppins";
+}
+
+.container {
+    max-width: 1280px;
+    margin: 16px auto;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    gap: 32px;
+}
+.nav-item {
+    list-style-type: none;
+}
+
+.nav-link {
+    text-decoration: none;
+    /* padding: 18px 32px; */
+    color: #394149;
+    font-weight: 600;
+}
+
+.btn {
+    padding: 18px 32px;
+    border-radius: 36px;
+}
+.btn-action {
+    color: #F58A07;
+    background-color: rgba(245, 138, 7, 0.1);
+}
