@@ -71,19 +71,58 @@ header {
 .row_header {
     display: flex;
     align-items: center;
+    gap: 53px;
 }
 .logo-ipsum {
     display: flex;
     gap: 48px;
 }
+
 .header-title{
-    color: red;
-    
-}
+    color: #1d3444;
+    font-size: 64px;
+    letter-spacing: -3px;
+    font-weight: 600;
+    line-height: 72px;}
+    position: absolute;
+    width: 576px;
+    height: 144px;
+left: 320px;
+top:201px;
+
+
 .header-button{
 
 }
-    
-    
-    
+.col-text {
+    width: 55%;
+}
+
+.man-image {
+    width: 45%;
+}
+.content{
    
+    font-weight: 500;
+    Size: 18px;
+    line-height: 30px;
+    color : #5b5b5b;
+    line-height : 30px;} 
+    
+    position: absolute;
+    width: 571px;
+    height: 60px;
+    left: 321px;
+    top: 357px;
+    
+ 
+
+.man-image img {
+    display: block;
+}
+.medeenuud {display: flex;}
+.col1-text {width: 735px;
+
+           }
+ .header          
+
